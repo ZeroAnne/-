@@ -1,0 +1,23 @@
+/* :root{
+    --primary-color:#da7c0b;
+} */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #FCF0C4;
+}
+
+.rateall {
+    width: 500px;
+    height: 400px;
+    .swap{
+        cursor: pointer;
+    }
+}
+
+.primary {
+    color: #DA7C0B
+}
